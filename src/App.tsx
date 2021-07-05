@@ -8,7 +8,6 @@ function App() {
   const svgColorStyle = { fill: themeColor };
   const linkColorStyle = { color: themeColor };
 
-  console.log('color', themeColor);
   return (
     <div className="App">
       <header className="App-header">
